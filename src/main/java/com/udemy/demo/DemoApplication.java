@@ -27,7 +27,7 @@ public class DemoApplication {
 				.paths(PathSelectors.any())
 
 				.build().apiInfo(apiInfo());
-	}
+	}/* annnnnnnnn*/
 	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder()
 				.title("REST API")
@@ -36,6 +36,6 @@ public class DemoApplication {
 
 	}
 
-
+/*anoussi*/
 
 }
